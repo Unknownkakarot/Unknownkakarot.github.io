@@ -1,0 +1,22 @@
+h1 {text-align: center;
+color: white;
+font-family:comic sans ms}
+
+
+button {
+  font-size: 40px;
+  
+}
+.PLAY{ 
+ text-align: center;
+}
+Body
+{background-image: url("http://images-cdn.moviepilot.com/images/c_scale,h_531,w_500/t_mp_quality/py0qyysionacystcc5lg/goku-vs-superman-the-real-truth-about-who-would-win-so-let-s-fight-419942.jpg");}
+.naruto{
+  text-align: center;
+}
+
+button:hover
+{ 
+  background-color:blue;
+}
