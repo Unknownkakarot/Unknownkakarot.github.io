@@ -1,0 +1,24 @@
+h1 {text-align: center;
+color: lime;}
+
+body {background-image: url("https://s9.postimg.org/nsquwx0f3/IMG_4141.jpg");
+
+}
+
+#playbutton{
+font-size: 30px;
+display: block;
+ margin: auto;
+}
+
+h2{text-align: center;
+  color: red;/*  */
+}
+
+.Freddy {
+  position: absolute;
+}
+
+#Scott {
+  position: absolute;
+}
